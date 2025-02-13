@@ -1,9 +1,5 @@
 ## Hi there 👋
-<div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you)
-
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JUN%20YONG)
 
 <!--Body-->
 ![LJunyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJunyong&show_icons=true&theme=radical)
