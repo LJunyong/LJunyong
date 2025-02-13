@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JUN%20YONG)
+
 </div>
 
 <!--Body-->
@@ -15,5 +16,4 @@ About Me
   <br>
   <br>
 ##Tech Stack
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JUN%20YONG)
 
