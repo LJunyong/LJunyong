@@ -4,7 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJunyong&layout=compact)
 <br>
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-##Tech Stack
+<br>
+<br>
+Tech Stack
 <br>
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
