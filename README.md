@@ -1,4 +1,3 @@
-## Hi there 👋
 ![LJunyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJunyong&show_icons=true&theme=graywhite)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mastermath)](https://solved.ac/mastermath)
 <br>
